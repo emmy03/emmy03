@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @emmy03
-- 👀 I’m interested in bio-informatics
+- 👋 Hi, I’m Emmy
+- 👀 I’m interested in software development and algorithms
 - 🌱 I’m currently learning programming
 - 📫 How to reach me : mjemmy03@gmail.com
  
