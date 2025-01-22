@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Emmy
-- 👀 I’m interested in software development and algorithms
-- 🌱 I’m currently learning programming
-- 📫 How to reach me : mjemmy03@gmail.com
+- 👀 I’m passionate about software development, algorithms, and UML modeling
+- 🌱 Currently learning programming and exploring data analysis, visualization techniques
+- 🎓 Aspiring to pursue a master’s in Data Science
+- 📫 Reach me at : mjemmy03@gmail.com
  
  “The best thing about a boolean is even if you are wrong, you are only off by a bit.”
  
