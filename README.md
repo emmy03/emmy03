@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Emmy
-- 👀 I’m passionate about software development, algorithms, and UML modeling
-- 🌱 Currently learning programming and exploring data analysis, visualization techniques
-- 🎓 Aspiring to pursue a master’s in Data Science
+- 🎓 Pursuing an MSc in Computer Science (DataScale) — diving into big data, AI & distributed systems
+- 💻 Interested in data engineering, analytics & intelligent software systems 
+- 🌱 Constantly learning and building projects that turn data into insights
 - 📫 Reach me at : mjemmy03@gmail.com
  
  <blockquote><em>The best thing about a boolean is even if you are wrong, you are only off by a bit.</em></blockquote>
